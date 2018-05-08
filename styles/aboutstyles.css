@@ -83,7 +83,7 @@ main {
 }
 
 article {
-  width: 65%;
+  width: 55%;
 
 }
 
@@ -117,11 +117,12 @@ aside {
   margin-bottom: 2rem;
   text-align: center;
   border: 3px groove; border-color:rgb(209,209,209);
-  color:black;
+  color:white;;
+    background-color: black;
 }
 
 h3.aside{
-  color:black;
+  color:white;
   padding:0.4rem;
 }
 
