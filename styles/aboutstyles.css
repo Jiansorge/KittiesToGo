@@ -161,15 +161,13 @@ nav.foot{
   background-color:black;
 }
 
-{
-  padding:0rem;
-}
+
 
 li{
   font-weight:100;
   text-align: center;
 /*  display:flex;*/
-  position:center;
+
   font-size: 0.8rem;
 }
 
